@@ -1,13 +1,18 @@
-import org.example.Main;
-import org.junit.jupiter.api.Test;
+import org.junit.platform.runner.JUnitPlatform;
+import org.junit.platform.suite.api.SelectClasses;
+import org.junit.runner.RunWith;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+@RunWith(JUnitPlatform.class)
+@SelectClasses({
+        AppTest.class,
+        CadeiaTest.class,
+        DetentoFurtoBlocoTest.class,
+        DetentoFurtoFactoryTest.class,
+        DetentoFurtoPenaTest.class,
+        DetentoHomicidioBlocoTest.class,
+        DetentoHomicidioFactoryTest.class,
+        DetentoHomicidioPenaTest.class
+})
 
 public class MainTest {
-
-
-    @Test
-    public void testarMain(){
-        assertEquals("10;20", Main.teste());
-    }
 }

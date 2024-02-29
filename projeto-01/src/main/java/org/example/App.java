@@ -2,7 +2,7 @@ package org.example;
 
 public class App implements Runnable {
 
-    private final Cadeia cadeia = new Cadeia();
+    public final Cadeia cadeia = new Cadeia();
 
     public static void main(String[] args) {
         var app = new App();
