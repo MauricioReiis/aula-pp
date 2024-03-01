@@ -31,7 +31,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="aula-pp" target="11" />
+      <module name="aula-pp" target="14" />
       <module name="aula-pp (1)" target="11" />
       <module name="aula-pp (10)" target="11" />
       <module name="aula-pp (11)" target="11" />
