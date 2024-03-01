@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aula-pp (8)" />
+        <module name="aula-pp (9)" />
+        <module name="aula-pp" />
+        <module name="aula-pp (6)" />
+        <module name="aula-pp (7)" />
+        <module name="aula-pp (18)" />
+        <module name="aula-pp (17)" />
+        <module name="aula-pp (19)" />
+        <module name="aula-pp (4)" />
+        <module name="aula-pp (14)" />
+        <module name="aula-pp (5)" />
+        <module name="aula-pp (13)" />
+        <module name="aula-pp (2)" />
+        <module name="aula-pp (16)" />
+        <module name="aula-pp (3)" />
+        <module name="aula-pp (15)" />
+        <module name="aula-pp (10)" />
+        <module name="aula-pp (21)" />
+        <module name="aula-pp (1)" />
+        <module name="aula-pp (20)" />
+        <module name="aula-pp (12)" />
+        <module name="aula-pp (11)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aula-pp" target="11" />
+      <module name="aula-pp (1)" target="11" />
+      <module name="aula-pp (10)" target="11" />
+      <module name="aula-pp (11)" target="11" />
+      <module name="aula-pp (12)" target="11" />
+      <module name="aula-pp (13)" target="11" />
+      <module name="aula-pp (14)" target="11" />
+      <module name="aula-pp (15)" target="11" />
+      <module name="aula-pp (16)" target="11" />
+      <module name="aula-pp (17)" target="11" />
+      <module name="aula-pp (18)" target="11" />
+      <module name="aula-pp (19)" target="11" />
+      <module name="aula-pp (2)" target="11" />
+      <module name="aula-pp (20)" target="11" />
+      <module name="aula-pp (21)" target="11" />
+      <module name="aula-pp (3)" target="11" />
+      <module name="aula-pp (4)" target="11" />
+      <module name="aula-pp (5)" target="11" />
+      <module name="aula-pp (6)" target="11" />
+      <module name="aula-pp (7)" target="11" />
+      <module name="aula-pp (8)" target="11" />
+      <module name="aula-pp (9)" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

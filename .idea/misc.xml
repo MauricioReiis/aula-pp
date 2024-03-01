@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/projeto-01/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-02/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-03/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-04/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-05/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-06/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-07/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-08/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-09/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-10/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-11/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-12/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-13/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-14/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-15/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-16/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-17/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-18/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-19/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-20/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-21/pom.xml" />
+        <option value="$PROJECT_DIR$/projeto-22/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
